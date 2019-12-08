@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/avelman/CLionProjects/untitled4/app.c
+app.h
+/home/avelman/CLionProjects/untitled4/app.h
+
+/home/avelman/CLionProjects/untitled4/app.h
+stack.h
+/home/avelman/CLionProjects/untitled4/stack.h
+binarySearchTree.h
+/home/avelman/CLionProjects/untitled4/binarySearchTree.h
+
+/home/avelman/CLionProjects/untitled4/binarySearchTree.h
+stdio.h
+-
+stdlib.h
+-
+
+/home/avelman/CLionProjects/untitled4/stack.h
+stdio.h
+-
+stdlib.h
+-
+

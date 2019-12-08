@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/untitled4.dir/main.c.o CMakeFiles/untitled4.dir/binarySearchTree.c.o CMakeFiles/untitled4.dir/stack.c.o CMakeFiles/untitled4.dir/app.c.o  -o untitled4 
